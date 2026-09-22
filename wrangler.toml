@@ -1,0 +1,3 @@
+name = "huangguo-m3u"
+main = "_worker.js"
+compatibility_date = "2026-01-01"
